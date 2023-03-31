@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>闫芮宁的个人主页</title>
+    <style ="text/css">
+        #box {
+            height: 980px;
+            width: 850px;
+            margin-right: auto;
+            margin-left: auto;
+            background-color: rgb(242, 237, 239)
+        }
+        #top {
+            height: 250px;
+            width: 850px;
+        }
+        #nav {
+            height: 50px;
+            width: 850px;
+            background-color: rgba(226, 169, 184, 0.47);
+        }
+        #contant {
+            height: 680px;
+            width: 850px;
+        }
+        #bottom {
+            text-align: center;
+            height: 40px;
+            width: 850px;
+            padding-top: 10px;
+            color: #F69;
+            background-color: rgba(226, 169, 184, 0.47);
+        }
+        a:link {
+            color: #F69;
+            text-decoration: none;
+        }
+        a:visited {
+            text-decoration: none;
+            color: #F69;
+        }
+        a:hover {
+            text-decoration: none;
+        }
+        a:active {
+            text-decoration: none;
+        }
+        #left {
+            float: left;
+            height: 600px;
+            width: 350px;
+        }
+        #right {
+            float: left;
+            height: 600px;
+            width: 500px;
+        }
+        #kuang {
+            height: 140px;
+            width: 320px;
+            border: 1px solid rgba(226, 169, 184, 0.47);
+        }
+        </style>
+
+
+ </head>
+
+<body>
+<div id="box">
+    <div id="top"><img src="images/top.jpg" width="850" height="250" /></div>
+    <div id="nav"><table width="850" border="0">
+        <tr>
+            <td width="170" height="44" align="center"><a href="首页.html">首页</a></td>
+            <td width="170" align="center"><a href="个人简介及经历.html">个人简介及经历</a></td>
+            <td width="170" align="center"><a href="个人爱好.html">个人爱好</a></td>
+            <td width="170" align="center"><a href="个人相册.html">个人相册</a></td>
+            <td width="170" align="center"><a href="留言板.html">留言板</a></td>
+        </tr>
+    </table>
+    </div>
+    <div id="contant">
+        <div id="left"><table width="350" border="0">
+            <tr>
+                <td height="487"><img src="images/1.jpg" width="300" height="437" /></td>
+            </tr>
+            <tr>
+                <td height="100"><div id="kuang">
+                    <span style="color: #F69">个人信息</span>
+                    </p>
+                    <p>      姓名：闫芮宁        </p>
+                    <p>学号：2112261</p>
+                    <p>班级：2021级新闻与传播学院2班</p>
+
+                </div></td>
+            </tr>
+        </table>
+        </div>
+        <div id="right"><table width="500" border="0">
+            <tr>
+                <td style="color: #F69; font-size: 30px;">饼的个人小窝</td>
+            </tr>
+            <tr>
+                <td height="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我是闫芮宁，出生于2003年11月6日，来自辽宁沈阳。
+                                                           外号是饼饼，因为中间的芮（rui）常被人念作饼（bing），干脆就叫饼饼了~
+                                                           我的性格非常活泼开朗，最喜欢的事情就是和朋友们在一起玩噜！
+                                                           精力过于旺盛，爱好也有很多吼吼——速速点击导航栏详细了解我！！</td>
+
+
+            </tr>
+            <tr>
+                <td height="100" style="color: #F69; font-size: 22px;">饼's Daily Plog</td>
+            </tr>
+            <tr>
+                <td height="164"><img src="images/2.jpg" width="145" height="180" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/3.jpg" width="170" height="110" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/4.jpg" width="130" height="170" /></td>
+            </tr>
+        </table>
+        </div>
+
+    </div>
+    <div id="bottom">HELLO 欢迎光临~</div>
+
+
+
+</div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>个人简介及经历</title>
+  <style type="text/css">
+    #box {
+      height: 980px;
+      width: 850px;
+      margin-right: auto;
+      margin-left: auto;
+      background-color: rgb(242, 237, 239)
+    }
+    #top {
+      height: 250px;
+      width: 850px;
+    }
+    #nav {
+      height: 50px;
+      width: 850px;
+      background-color: rgba(226, 169, 184, 0.47);
+    }
+    #contant {
+      height: 630px;
+      width: 850px;
+    }
+    #bottom {
+      text-align: center;
+      height: 40px;
+      width: 850px;
+      padding-top: 10px;
+      color: #F69;
+      background-color: rgba(226, 169, 184, 0.47);
+    }
+    a:link {
+      color: #F69;
+      text-decoration: none;
+    }
+    a:visited {
+      text-decoration: none;
+      color: #F69;
+    }
+    a:hover {
+      text-decoration: none;
+    }
+    a:active {
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body><div id="box">
+  <div id="top"><img src="images/top.jpg" width="850" height="250" /></div>
+  <div id="nav"><table width="850" border="0">
+    <tr>
+      <td width="170" height="44" align="center"><a href="首页.html">首页</a></td>
+      <td width="170" align="center"><a href="个人简介及经历.html">个人简介及经历</a></td>
+      <td width="170" align="center"><a href="个人爱好.html">个人爱好</a></td>
+      <td width="170" align="center"><a href="个人相册.html">个人相册</a></td>
+      <td width="170" align="center"><a href="留言板.html">留言板</a></td>
+    </tr>
+  </table>
+  </div>
+  <div id="contant"><table width="850" border="0">
+    <tr>
+      <td colspan="3" align="center" style="font-weight: bold">个人简介及经历</td>
+    </tr>
+    <tr>
+      <td width="151" height="154"><img src="images/简介1.jpg" width="130" height="180" /></td>
+      <td colspan="2">
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;目前就读于南开大学，担任南开大学团校（黄埔团校）办公部部长、班级宣传委员兼心理委员。本人性格活泼开朗，乐观向上，为人诚恳，兴趣广泛，具有较强的适应性与抗压能力。曾多次参与各类实践活动的组织和策划，具有一定的策划领导能力与沟通合作能力，积极主动，工作中认真负责。熟练掌握拍摄、视频制作等技能，多次参与创作微电影、广告片等并荣获奖项。大学期间，曾在校首届微电影节”万象“中参演《时间困兽》并荣获”最佳演员奖“；参加”红色潇湘铸忠魂——探寻百年党史的长沙印记“暑期社会实践并荣获校级优秀团队。</p></td>
+    </tr>
+    <tr>
+      <td height="80" colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;不过————我真的会做一个如此正经的个人简介吗？   NO!!
+      </td>
+    </tr>
+    <tr>
+      <td height="141"><img src="images/简介3.jpg" width="130" height="160" /></td>
+      <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;如果说真正的个人简介，我愿意称自己为生活记录员+开心超人。梦想是成为一名旅行家环游世界（很认真的梦想but要先努力赚够钱）~平时非常喜欢笑，并且经常会因为一点小事而非常开心，比较擅长处理情绪。真的很喜欢拍照记录分享我的生活，喜欢发现身边充满快乐的人或事。当然特别喜欢跟朋友们在一起玩或者交流想法，也喜欢尝试更多新鲜的事。</td>
+    </tr>
+    <tr>
+      <td height="141" colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我最喜欢的一句话是：”一切都是最好的安排“。每次遇到任何问题或挑战，想到这句话都能安慰到自己，重新给自己动力吼吼。身为一个典型的esfp（mbti中的一种人格类型），我也很愿意给身边人带去快乐，也是朋友们身边的气氛组担当~</td>
+      <td align="right"><img src="images/简介2.jpg" width="240" height="160" /></td>
+    </tr>
+  </table>
+  </div>
+  <div id="bottom">已经简单了解我了吧，吼吼吼</div>
+
+
+
+</div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>个人爱好</title>
+  <style type="text/css">
+    #box {
+      height: 1100px;
+      width: 850px;
+      margin-right: auto;
+      margin-left: auto;
+      background-color: rgb(242, 237, 239)
+    }
+    #top {
+      height: 250px;
+      width: 850px;
+    }
+    #nav {
+      height: 50px;
+      width: 850px;
+      background-color: rgba(226, 169, 184, 0.47);
+    }
+    #contant {
+      height: 800px;
+      width: 850px;
+    }
+    #bottom {
+      text-align: center;
+      height: 40px;
+      width: 850px;
+      padding-top: 10px;
+      color: #F69;
+      background-color: rgba(226, 169, 184, 0.47);
+    }
+    a:link {
+      color: #F69;
+      text-decoration: none;
+    }
+    a:visited {
+      text-decoration: none;
+      color: #F69;
+    }
+    a:hover {
+      text-decoration: none;
+    }
+    a:active {
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body><div id="box">
+  <div id="top"><img src="images/top.jpg" width="850" height="250" /></div>
+  <div id="nav"><table width="850" border="0">
+    <tr>
+      <td width="170" height="44" align="center"><a href="首页.html">首页</a></td>
+      <td width="170" align="center"><a href="个人简介及经历.html">个人简介及经历</a></td>
+      <td width="170" align="center"><a href="个人爱好.html">个人爱好</a></td>
+      <td width="170" align="center"><a href="个人相册.html">个人相册</a></td>
+      <td width="170" align="center"><a href="留言板.html">留言板</a></td>
+    </tr>
+  </table>
+  </div>
+  <div id="contant"><table width="850" border="0">
+    <tr>
+      <td colspan="3" align="center" style="font-weight: bold">我的爱好</td>
+    </tr>
+    <tr>
+      <td width="151" height="154"><img src="images/爱好1.jpg" width="160" height="200" /></td>
+      <td colspan="2">
+        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;非常喜欢旅行，喜欢拍照。因为家人同样爱好旅行，所以从3岁开始就一起在全国各地玩耍啦!现在全国还未探索的区域大概是中国西部地区以及最南面的地方（对于一个东北人来说确实是很远）。2018年暑假，参加夏令营前往欧洲，去了西班牙、奥地利、法国、意大利等国家。在2019年的寒假，参加了"Meet the family"活动，独自一人前往德国班贝格镇，深度体验了德国文化。在2019年的暑假，跟随学校的夏令营前往美国，并在美国高中学校体验了学习~到了大学，一年的时间中也去了北京、长沙、厦门、杭州等地，接下来半年打算去江苏、甘肃，俄罗斯等地转一转！真的很喜欢在旅行中体验各地不同的文化，接触到各种各样的朋友。希望能够一直在旅行的路上~</p></td>
+    </tr>
+    <tr>
+      <td height="135" colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;喜欢和朋友在一起，喜欢感受快乐。大一加入了黄埔团校，真的结交了非常多的朋友，最幸运的大概是碰到了大学里最好的闺蜜，也认识了一群志同道合的人，我们一起出去旅行，一起在湖边喝酒聊天，一起参与比赛，甚至一起开了公司创业。也加入了学校的狼人杀、桌游组织，认识到了很多有趣的人，大学生活超级丰富~</td>
+      <td width="160" align="right"><img src="images/爱好2.jpg" width="240" height="175" /></td>
+    </tr>
+    <tr>
+      <td height="141"><img src="images/爱好3.jpg" width="240" height="175" /></td>
+      <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;喜欢一切可爱的东西。超级喜欢猫猫狗狗，家里有三只狗和一只小兔子！梦想是以后拥有一只萨摩耶，一只柴犬和一只加菲猫。我也很喜欢小孩子，家里有一个弟弟，我们相差9岁。也希望自己成为一个可爱的人~</td>
+    </tr>
+    <tr>
+      <td height="141" colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;喜欢看电影、喜欢听音乐。最喜欢的歌手是IU。我也很喜欢沉浸在电影之中，钟爱的电影类型大概是悬疑片，不过如果说最喜欢的电影，大概是新海诚的《你的名字》，我把它刷了总共8遍噜！</td>
+      <td align="right"><img src="images/爱好4.jpg" width="240" height="175" /></td>
+    </tr>
+  </table>
+  </div>
+  <div id="bottom">\爱好多多，最爱吃吃睡睡玩玩噜/</div>
+
+
+
+</div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>个人相册</title>
+    <style type="text/css">
+        #box {
+            height: 950px;
+            width: 850px;
+            margin-right: auto;
+            margin-left: auto;
+            background-color: rgb(242, 237, 239)
+        }
+        #top {
+            height: 250px;
+            width: 850px;
+        }
+        #nav {
+            height: 50px;
+            width: 850px;
+            background-color: rgba(226, 169, 184, 0.47);
+        }
+        #contant {
+            height: 600px;
+            width: 850px;
+        }
+        #bottom {
+            text-align: center;
+            height: 40px;
+            width: 850px;
+            padding-top: 10px;
+            color: #F69;
+            background-color: rgba(226, 169, 184, 0.47);
+        }
+        a:link {
+            color: #F69;
+            text-decoration: none;
+        }
+        a:visited {
+            text-decoration: none;
+            color: #F69;
+        }
+        a:hover {
+            text-decoration: none;
+        }
+        a:active {
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body><div id="box">
+    <div id="top"><img src="images/top.jpg" width="850" height="250" /></div>
+    <div id="nav"><table width="850" border="0">
+        <tr>
+            <td width="170" height="44" align="center"><a href="首页.html">首页</a></td>
+            <td width="170" align="center"><a href="个人简介及经历.html">个人简介及经历</a></td>
+            <td width="170" align="center"><a href="个人爱好.html">个人爱好</a></td>
+            <td width="170" align="center"><a href="个人相册.html">个人相册</a></td>
+            <td width="170" align="center"><a href="留言板.html">留言板</a></td>
+        </tr>
+    </table>
+    </div>
+    <div id="contant">
+        <table width="850" border="0">
+            <tr>
+                <td colspan="4" align="center" style="font-weight: bold">个人相册</td>
+            </tr>
+            <tr>
+
+                <td width="208" align="center"><img src="images/2.jpg" width="160" height="200" /></td>
+                <td width="208" align="center"><img src="images/6.jpg" width="160" height="200" /></td>
+                <td width="208" align="right"><img src="images/10.jpg" width="160" height="200" /></td>
+            </tr>
+            <tr>
+                <td height="189"><img src="images/简介2.jpg" width="240" height="170" /></td>
+                <td align="center"><img src="images/3.jpg" width="240" height="170" /></td>
+                <td align="center"><img src="images/7.jpg" width="240" height="170" /></td>
+
+            </tr>
+            <tr>
+                <td align="right"><img src="images/8.jpg" width="240" height="160" /></td>
+                <td height="187" colspan="2" align="center"><img src="images/9.jpg" width="240" height="160" /></td>
+            </tr>
+        </table>
+    </div>
+    <div id="bottom">我真的很喜欢拍照记录我的日常生活碎片！</div>
+
+
+
+</div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>留言板</title>
+  <style type="text/css">
+    #box {
+      height: 850px;
+      width: 850px;
+      margin-right: auto;
+      margin-left: auto;
+      background-color: rgb(242, 237, 239)
+    }
+    #top {
+      height: 250px;
+      width: 850px;
+    }
+    #nav {
+      height: 50px;
+      width: 850px;
+      background-color: rgba(226, 169, 184, 0.47);
+    }
+    #contant {
+      height: 500px;
+      width: 850px;
+    }
+    #bottom {
+      text-align: center;
+      height: 40px;
+      width: 850px;
+      padding-top: 10px;
+      color: #F69;
+      background-color: rgba(226, 169, 184, 0.47);
+    }
+    a:link {
+      color: #F69;
+      text-decoration: none;
+    }
+    a:visited {
+      text-decoration: none;
+      color: #F69;
+    }
+    a:hover {
+      text-decoration: none;
+    }
+    a:active {
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body><div id="box">
+  <div id="top"><img src="images/top.jpg" width="850" height="250" /></div>
+  <div id="nav"><table width="850" border="0">
+    <tr>
+      <td width="170" height="44" align="center"><a href="首页.html">首页</a></td>
+      <td width="170" align="center"><a href="个人简介及经历.html">个人简介及经历</a></td>
+      <td width="170" align="center"><a href="个人爱好.html">个人爱好</a></td>
+      <td width="170" align="center"><a href="个人相册.html">个人相册</a></td>
+      <td width="170" align="center"><a href="留言板.html">留言板</a></td>
+    </tr>
+  </table>
+  </div>
+  <div id="contant"><table width="850" border="0">
+    <tr>
+      <td width="315" height="438"><img src="images/留言.jpg" width="248" height="300" /></td>
+      <td width="525" align="center"><span style="font-size: 22px; font-weight: bold;">留言板</span>
+        <table width="500" border="0">
+          <tr>
+            <td width="127" height="45">姓名：</td>
+            <td colspan="2"><form id="form3" name="form3" method="post" action="">
+              <label for="textfield"></label>
+              <input type="text" name="textfield" id="textfield" />
+            </form></td>
+          </tr>
+          <tr>
+            <td height="45">性别：</td>
+            <td colspan="2"><form id="form4" name="form4" method="post" action="">
+              <input type="radio" name="radio" id="男" value="男" />
+              男
+              <input type="radio" name="radio" id="女" value="女" />
+              <label for="女"></label>
+              <label for="男"></label>
+              女
+            </form></td>
+          </tr>
+          <tr>
+            <td height="45">手机号：</td>
+            <td colspan="2"><form id="form6" name="form6" method="post" action="">
+              <label for="textfield3"></label>
+              <input type="text" name="textfield3" id="textfield3" />
+            </form></td>
+          </tr>
+          <tr>
+            <td height="45">电子邮箱：</td>
+            <td colspan="2"><form id="form7" name="form7" method="post" action="">
+              <label for="textfield4"></label>
+              <input type="text" name="textfield4" id="textfield4" />
+            </form></td>
+          </tr>
+          <tr>
+            <td height="92">留言：</td>
+            <td colspan="2"><form id="form8" name="form8" method="post" action="">
+              <label for="textarea"></label>
+              <textarea name="textarea" id="textarea" cols="45" rows="5"></textarea>
+            </form></td>
+          </tr>
+          <tr>
+            <td height="46">&nbsp;</td>
+            <td width="189"><form id="form1" name="form1" method="post" action="">
+              <input type="submit" name="提交" id="提交" value="提交" />
+            </form></td>
+            <td width="270"><form id="form2" name="form2" method="post" action="">
+              <input type="submit" name="重置" id="重置" value="重置" />
+            </form></td>
+          </tr>
+        </table></td>
+    </tr>
+  </table>
+  </div>
+  <div id="bottom">写下想说的话叭~</div>
+
+</body>
+</html>
